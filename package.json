@@ -1,0 +1,22 @@
+{
+    "name": "Gulp",
+    "version": "1.1.1",
+    "description": "gulp: nodejs中的自动化工具（类似产品grunt）",
+    "main": "gulpfile-base.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^4.0.2",
+        "gulp-clean": "^0.4.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-cssmin": "^0.2.0",
+        "gulp-htmlmin": "^5.0.1",
+        "gulp-less": "^4.0.1",
+        "gulp-rename": "^2.0.0",
+        "gulp-uglify-es": "^2.0.0"
+    }
+}
